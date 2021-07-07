@@ -1,0 +1,11 @@
+
+ Objective :
+                Download high quality youtube videoes easily ( ssyoutube can't download over 720p)
+
+ Plan : 
+            Make a simple youtube high quality video downloader with python
+
+                ---  simple interface to copy and paste link and button to download , indicate downloaded  ( tkinter can be used)
+
+                ---  try to get highest quality stream
+                
